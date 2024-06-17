@@ -1,0 +1,46 @@
+VISUAL_STUDIO_CODE
+First-time Setup:
+
+Launch VS Code.
+Configure basic settings: File > Preferences > Settings.
+Install extensions: View > Extensions.
+Set up themes, file associations, and keyboard shortcuts.
+User Interface Overview:
+
+Activity Bar: Located on the side, contains icons for quick access to views and features.
+Side Bar: Displays different panels like Explorer, Search, Source Control.
+Editor Group: Area where you edit files.
+Status Bar: Shows information about the opened project and files.
+Command Palette:
+
+Accessible via Ctrl+Shift+P.
+Perform tasks like opening files, changing settings, or executing commands.
+Extensions in VS Code:
+
+Enhance functionality of VS Code.
+Find/install via Extensions view (Ctrl+Shift+X).
+Essential web dev extensions: Live Server, Prettier, ESLint.
+Integrated Terminal:
+
+Open with Ctrl+` or View > Terminal.
+Execute commands without leaving VS Code.
+Syncs with your project’s directory.
+File and Folder Management:
+
+Create/open files via File menu or Explorer pane.
+Efficient navigation with Ctrl+P to search and open files.
+Settings and Preferences:
+
+Access settings via File > Preferences > Settings (Ctrl+,).
+Customize theme via File > Preferences > Color Theme.
+Change font size/keybindings in settings JSON or GUI.
+Debugging in VS Code:
+
+Set breakpoints in code editor.
+Open Debug view (Ctrl+Shift+D), configure launch.json file.
+Start/stop debugging sessions, inspect variables, step through code.
+Using Source Control:
+
+Git integration built-in.
+Initialize repo via Source Control pane or Terminal.
+Commit changes with Source Control pane, push to GitHub via ... menu.
